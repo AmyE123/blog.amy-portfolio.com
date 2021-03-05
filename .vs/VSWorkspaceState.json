@@ -1,16 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\admin",
-    "\\assets",
-    "\\blog",
-    "\\categories",
-    "\\gallery",
-    "\\nginx",
-    "\\screenshots",
-    "\\_products",
-    "\\_sass"
+    ""
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_includes\\header.html",
   "PreviewInSolutionExplorer": false
 }
