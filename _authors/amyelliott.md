@@ -1,31 +1,17 @@
 ---
 name: Amy Elliott
 username: amyelliott
-bio: "Hi I am Amy, I'm a Gameplay Programmer and Artist"
+bio: "My name is Amy, and I'm a gameplay programmer and artist from the UK. I've published my first game on the Google Playstore when I was 17, and I'm currently a first-year student at the University of Portsmouth studying Computer Games Technology BSc (Hons), as well as doing Commission Artwork and working retail. I've recently graduated from Northbrook Metropolitan College with a Disctinction grade, studying Creative Media Technology (Games Development). I love learning new skills and taking on challenges, I achieve this by working hard and doing lots of self-directed study in hopes to have T shaped knowledge"
 site: http://amy-portfolio.com
 avatar: amyelliott.png
 email: amy.elliott2002@yahoo.co.uk
 social:
     - title: "github"
-      url: "https://github.com/johndoe"
+      url: "https://github.com/AmyE123"
     - title: "linkedin"
-      url: "https://www.linkedin.com/in/johndoe"
-    - title: "youtube"
-      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-    - title: "facebook"
-      url: "https://www.facebook.com/johndoe"
+      url: "https://www.linkedin.com/in/amy-m-elliott/"
     - title: "twitter"
-      url: "https://www.twitter.com/johndoe"
-    - title: "behance"
-      url: "https://behance.com/johndoe"
+      url: "https://twitter.com/AmyElliott_"
     - title: "instagram"
-      url: "https://instagram.com/johndoe"
-    - title: "medium"
-      url: "https://medium.com/johndoe"
-    - title: "telegram"
-      url: "https://telegram.com/johndoe"
-    - title: "dribbble"
-      url: "https://dribbble.com/johndoe"
-    - title: "flickr"
-      url: "https://flickr.com/johndoe"
+      url: "https://www.instagram.com/amy.m.elliott/"
 ---
