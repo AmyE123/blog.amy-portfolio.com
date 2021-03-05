@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Welcome to devlopr-jekyll !"
+title:  "TDEMO Submission"
 summary: "Getting Started using devlopr-jekyll"
-author: johndoe
-date: '2019-05-22 14:35:23 +0530'
-category: jekyll
+author: amyelliott
+date: '2021-03-05 14:35:23 +0530'
+category: ['Game-Development', 'Programming', 'University']
 thumbnail: /assets/img/posts/code.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
-permalink: /blog/welcome-to-devlopr-jekyll/
+permalink: /blog/tdemo-submission/
 usemathjax: true
 ---
 

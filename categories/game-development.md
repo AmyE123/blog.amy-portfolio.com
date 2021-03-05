@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Guides
-permalink: /blog/categories/guides/
+title: Game Development
+permalink: /blog/categories/game-development/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>

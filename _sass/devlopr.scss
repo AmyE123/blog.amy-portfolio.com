@@ -240,8 +240,9 @@ header {
 }
 
 .btn-dark {
-    background-color:var(--button-background-color) !important;
+    background-color: var(--button-background-color) !important;
     color: var(--bold-color) !important;
+    width: 100%;
 }
 
 .img-thumbnail {
