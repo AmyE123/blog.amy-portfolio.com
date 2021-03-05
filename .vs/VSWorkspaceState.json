@@ -5,9 +5,12 @@
     "\\assets",
     "\\blog",
     "\\categories",
-    "\\_authors",
-    "\\_posts"
+    "\\gallery",
+    "\\nginx",
+    "\\screenshots",
+    "\\_products",
+    "\\_sass"
   ],
-  "SelectedNode": "\\_authors\\amyelliott.md",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }

@@ -13,8 +13,6 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Game Development
-      url: /game-development
     - text: Gallery
       url: /gallery
     - text: Shop
